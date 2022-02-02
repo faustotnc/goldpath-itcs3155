@@ -1,1 +1,1 @@
-# goldpath-itcs3155
+# GoldPath – Helping Students on Their Path to Success
