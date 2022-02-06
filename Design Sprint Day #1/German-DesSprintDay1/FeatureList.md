@@ -4,10 +4,10 @@
     2. Sign Up Form
 2. **Profile Page**
     1. Update Personal Information
-    2. Update Password
-    3. Set Profile Picture
-    4. Set Profile Visibility
-    5. Specify Communication Preferences
+    3. Update Password
+    4. Set Profile Picture
+    5. Set Profile Visibility
+    6. Specify Communication Preferences
 3. **Resume Builder**  
 This is where the user inputs all of the information that they currently have that can be used to train ML models for custom job matching. This page includes the following features:
     1. Personal & Contact Information Form
