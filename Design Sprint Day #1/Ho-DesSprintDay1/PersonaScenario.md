@@ -1,0 +1,8 @@
+Persona: Leo, 31, is in his senior year at UNC at Charlotte. He is a nontraditional student, has arrived in the U.S 5 years ago, and started over his academic at CPCC. He is looking for his future career in the CS industry.
+
+Scenario:
+Leo has not ready for his graduation this year because he is really worried about which company or job position would fit his academic learning and abilities. He decides to use SuccessPath.edu to gather information and create a list of well-known companies, positions, and their requirements for 1-year candidate graduates. However, the list is built based on his taken courses at UNCC so it wipes out his worry and encourages him to finish the rest of his senior year successfully.
+ 
+Leo has dreamed about Amazon for the first job in his life after graduation from UNCC. He uses goldpath.com to decide which courses he should take to satisfy Amazon recruiters that come to the university every semester. Using the site, he is easy to look for and create a list of Amazon relating courses that he should take as many as possible. Moreover, the site also helps him to build a great schedule via time managing and course efficiency scheduling category.
+ 
+As a senior, Leo needs an internship before graduation but building a resume and passing an interview are big challenges for him. From a close friend's recommendation, he use goldpath.com to browse all interview resources provided by the site. Step by step, he has better understood what and how to build an excellent resume. Also, interview Q&A and interview mock increase his confidence when facing recruiters. Finally, it allows him to make an interview as he wishes officially through the university career center. Leo has never been scared of any interview challenges.
