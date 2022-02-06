@@ -9,7 +9,7 @@
     4. Set Profile Visibility
     5. Specify Communication Preferences
 3. **Resume Builder**  
-This is where the user inputs all of the information that they currently have that can be used to train ML models for custom job matching. In a Naive-Bayes model, this would be the “prior” knowledge. This page includes the following features:
+This is where the user inputs all of the information that they currently have that can be used to train ML models for custom job matching. This page includes the following features:
     1. Personal & Contact Information Form
     2. Education Form
     3. Work Experience Form
@@ -25,12 +25,12 @@ This is where the user inputs all of the information that they currently have th
         6. Conferences and training
     8. Generate a Custom Resume PDF with tailored content.
     9. Submit Data to Train ML Models.
-4. **Competency Hub**
+4. **Competency Hub**  
 This is where users can see how they compare to other users that have a similar goal or background. They can use this information to continue refining their candidacy.
     1. Users can see how well their resume matches a particular job 
     2. Users can see how they rank when compared to users with the same job goal
-    3. Users can be ranked by location, and/or
-    4. Users can be ranked by age group
+        1. Users can be ranked by location, and/or
+        2. Users can be ranked by age group
     5. Users can see a list of areas in their resume that need improvement
     6. The ML models suggest courses that users can take to improve those areas
     7. Users can learn about the latest trends in their area of expertise
