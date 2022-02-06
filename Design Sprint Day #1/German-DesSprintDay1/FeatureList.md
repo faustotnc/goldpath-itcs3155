@@ -29,8 +29,8 @@ This is where the user inputs all of the information that they currently have th
 This is where users can see how they compare to other users that have a similar goal or background. They can use this information to continue refining their candidacy.
     1. Users can see how well their resume matches a particular job 
     2. Users can see how they rank when compared to users with the same job goal
-    3. Users can be ranked by location, and/or
-    4. Users can be ranked by age group
+        1. Users can be ranked by location, and/or
+        2. Users can be ranked by age group
     5. Users can see a list of areas in their resume that need improvement
     6. The ML models suggest courses that users can take to improve those areas
     7. Users can learn about the latest trends in their area of expertise
