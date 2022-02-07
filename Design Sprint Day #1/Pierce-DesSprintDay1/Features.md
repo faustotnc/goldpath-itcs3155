@@ -1,0 +1,10 @@
+- Customer support page
+- Saving resume drafts
+- Resume sharing
+- Job skills viewer
+- Home page / drop down menu
+- Job catalog
+- Download resumes
+- Different types of file types (pdf, .docx, plain text)
+- Save payment information
+- Email newsletters
