@@ -1,13 +1,13 @@
 # Group Feature List
-- Login and Signup
+- Login and Signup (Rishi)
   - Login Form
   - Sign Up Form (Notifications/Updates)
-- Profile Page
+- Profile Page (Quang Ho)
   - Update Personal Information
   - Update Password
   - Set Profile Picture
   - Set Profile Visibility
-- Resume Builder
+- Resume Builder (Carl, Oliver)
   - Personal and Contact Information Form
   - Education Form
   - Work Experience Form
@@ -23,14 +23,14 @@
     - Conferences and training
   - Generate a Custom Resume PDF with tailored content.
   - Submit Data to Train ML Models.
-- Competency Hub
+- Competency Hub (Fausto)
   - Users can see how well their resume matches a particular job
   - Users can see how they rank when compared to users with the same job goal
     - Users can be ranked by location, and/or
     - Users can be ranked by age group
   - Users can see a list of areas in their resume that need improvement
   - The ML models suggest courses that users can take to improve those areas
-- Networking Center
+- Networking Center(Andrew)
   - Interview Prep
     - Users can participate in mock interviews by recording themselves answering a list of questions
     - Users can participate in mock interviews with other people
@@ -40,9 +40,9 @@
   - Users can schedule in-person interviews with recruiters
   - Recruiters can recommend job postings directly to the users
     - This adds points to their ranking in the Competency Hub
-- Application Center
+- Application Center(Christian)
   - Users can apply for jobs that best match their resume
       - Filter Matched Jobs by criteria (Location, Company, Salary, etc.)
   - Users can apply for jobs recommended by recruiters
-- Additional Resources
+- Additional Resources(Hannah)
    - Links to helpful websites such as https://compass.charlotte.edu/ that help build skills.
