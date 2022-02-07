@@ -1,6 +1,6 @@
 # Group Feature List
-- Login & Signup
-  - Log in Form
+- Login and Signup
+  - Login Form
   - Sign Up Form (Notifications/Updates)
 - Profile Page
   - Update Personal Information
@@ -8,13 +8,13 @@
   - Set Profile Picture
   - Set Profile Visibility
 - Resume Builder
-  - Personal & Contact Information Form
+  - Personal and Contact Information Form
   - Education Form
   - Work Experience Form
   - Projects Form
   - Skills Form
   - Honors and Awards Form
-  - The “Others” Section
+  - The "Others" Section
     - Volunteer Work
     - Certifications and licenses
     - Associations
@@ -35,7 +35,7 @@
     - Users can participate in mock interviews by recording themselves answering a list of questions
     - Users can participate in mock interviews with other people
     - The videos can be saved and accessed later
-  - Users can “connect” with recruiters to chat about their job application
+  - Users can "connect" with recruiters to chat about their job application
   - Users can interview with recruiters online through the website
   - Users can schedule in-person interviews with recruiters
   - Recruiters can recommend job postings directly to the users
