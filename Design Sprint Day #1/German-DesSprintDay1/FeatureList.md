@@ -32,7 +32,7 @@ This is where users can see how they compare to other users that have a similar 
         1. Users can be ranked by location, and/or
         2. Users can be ranked by age group
     5. Users can see a list of areas in their resume that need improvement
-    6. The ML models suggest courses that users can take to improve those areas
+        1. The ML models suggest courses that users can take to improve those areas
     7. Users can learn about the latest trends in their area of expertise
 5. **Networking Center**  
 This is where users can connect with people in the field.
